@@ -1,8 +1,23 @@
-# 💬 Chatbot template
+<h1 align="center">
+OpenAI GPT Chatbot <br> <span>( Template )</span>
+</h1>
+
+<div align="center">
+
+[![View Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tinyurl.com/openai-gpt-chatbot)
+
+</div>
+
+![OpenAI GPT Chatbot  Screenshot](https://res.cloudinary.com/dzpafdvkm/image/upload/v1727813268/Portfolio/openai-chatbot.png)
+
+<hr>
 
 A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-4o-mini.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
+## Technologies Used
+- [Python](https://www.python.org/) – The primary programming language used for backend development and data processing.
+- [Streamlit](https://streamlit.io/) – A framework for building interactive web applications in Python, used to create the user interface for our application.
+- [OpenAI API](https://beta.openai.com/docs/) – An interface for integrating AI capabilities, enabling advanced natural language processing and generation features.
 
 ## How to run it on your own machine
 
