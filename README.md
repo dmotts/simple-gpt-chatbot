@@ -4,7 +4,7 @@ OpenAI GPT Chatbot <br> <span>( Template )</span>
 
 <div align="center">
 
-<a href="https://tinyurl.com/openai-gpt-chatbot" target="_blank"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="View Demo"></a>
+<a href="https://bit.ly/openai-gpt-chatbot" target="_blank"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="View Demo"></a>
 </div>
 
 ![OpenAI GPT Chatbot  Screenshot](https://res.cloudinary.com/dzpafdvkm/image/upload/v1727815684/Portfolio/chatgpt-chatbot.png)
