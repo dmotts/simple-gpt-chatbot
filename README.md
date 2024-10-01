@@ -15,7 +15,7 @@ OpenAI GPT Chatbot <br> <span>( Template )</span>
 A simple chatbot built using OpenAI's GPT-4o-mini.
 
 ## Technologies Used
-- [Python](https://www.python.org/) – The primary programming language used for backend development and data processing.
+- [[!Python](https://www.python.org/)] – The primary programming language used for backend development and data processing.
 - [Streamlit](https://streamlit.io/) – A framework for building interactive web applications in Python, used to create the user interface for our application.
 - [OpenAI API](https://beta.openai.com/docs/) – An interface for integrating AI capabilities, enabling advanced natural language processing and generation features.
 
