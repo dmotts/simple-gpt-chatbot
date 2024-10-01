@@ -19,20 +19,58 @@ A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-4o-m
 - [Streamlit](https://streamlit.io/) – A framework for building interactive web applications in Python, used to create the user interface for our application.
 - [OpenAI API](https://beta.openai.com/docs/) – An interface for integrating AI capabilities, enabling advanced natural language processing and generation features.
 
-## How to run it on your own machine
+## Installation
 
-1. Install the requirements
+To set up and run the `dmotts/openai-gpt-chatbot` Streamlit application, follow these steps:
 
+1. **Clone the repository:**
+   ``` 
+   git clone https://github.com/dmotts/openai-gpt-chatbot.git
+   ``` 
+
+2. **Navigate to the project directory:**
    ```
-   $ pip install -r requirements.txt
+   cd openai-gpt-chatbot
+   ``` 
+
+3. **Create a virtual environment (optional but recommended):**
+   ``` 
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ``` 
+
+4. **Install the required dependencies:**
+   ``` 
+   pip install -r requirements.txt
    ```
 
-2. Run the app
+5. **Set up your OpenAI API key:**
+   - You can obtain your OpenAI API key [here](https://platform.openai.com/account/api-keys).
+   - Create a `.env` file in the project root and add your API key:
+     ```
+     OPENAI_API_KEY=your_api_key_here
+     ```
 
+6. **Run the Streamlit app:**
+   ``` 
+   streamlit run streamlit_app.py
+   ``` 
+
+7. **Open your browser and go to:**
    ```
-   $ streamlit run streamlit_app.py
+   http://localhost:8501
    ```
-   
+
+## Contributions
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b my-feature-branch`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin my-feature-branch`.
+5. Open a pull request.
+
 ## Let's Connect 🤝
 
 If you find this project useful, please consider connecting with me on GitHub:
