@@ -21,7 +21,7 @@ A simple chatbot built using OpenAI's GPT-4o-mini.
 
 ## Installation
 
-To set up and run the `dmotts/openai-gpt-chatbot` Streamlit application, follow these steps:
+To set up and run the application, follow these steps:
 
 1. **Clone the repository:**
    ``` 
