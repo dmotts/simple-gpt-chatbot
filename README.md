@@ -44,7 +44,7 @@ To set up and run the `dmotts/openai-gpt-chatbot` Streamlit application, follow 
    pip install -r requirements.txt
    ```
 
-5. **Acquire  a OpenAI API key:**
+5. **Acquire an OpenAI API key:**
    You can obtain an OpenAI API key [here](https://platform.openai.com/account/api-keys).
    
 6. **Run the Streamlit app:**
