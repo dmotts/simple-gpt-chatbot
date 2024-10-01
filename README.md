@@ -8,7 +8,7 @@ OpenAI GPT Chatbot <br> <span>( Template )</span>
 
 </div>
 
-![OpenAI GPT Chatbot  Screenshot](https://res.cloudinary.com/dzpafdvkm/image/upload/v1727813268/Portfolio/openai-chatbot.png)
+![OpenAI GPT Chatbot  Screenshot](https://res.cloudinary.com/dzpafdvkm/image/upload/v1727815684/Portfolio/chatgpt-chatbot.png)
 
 <hr>
 
