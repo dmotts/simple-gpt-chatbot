@@ -12,7 +12,7 @@ OpenAI GPT Chatbot <br> <span>( Template )</span>
 
 <hr>
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-4o-mini.
+A simple chatbot built using OpenAI's GPT-4o-mini.
 
 ## Technologies Used
 - [Python](https://www.python.org/) – The primary programming language used for backend development and data processing.
