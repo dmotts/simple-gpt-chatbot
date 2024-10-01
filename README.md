@@ -46,7 +46,7 @@ To set up and run the `dmotts/openai-gpt-chatbot` Streamlit application, follow 
 
 5. **Acquire an OpenAI API key:** 
    <p>
-   You can obtain an OpenAI API key [here](https://platform.openai.com/account/api-keys).
+   You can obtain an OpenAI API key <a href="https://platform.openai.com/account/api-keys">here</a>.
    </p>
 
 6. **Run the Streamlit app:**
