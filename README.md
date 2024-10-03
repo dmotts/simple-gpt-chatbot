@@ -82,5 +82,4 @@ Contributions are welcome! To contribute:
 
 ## Let's Connect 🤝
 
-<p> If you found this project useful.</p>
-Feel free to reach out the developer(s)!
+If you found this project useful. Feel free to reach out the developer(s)!
