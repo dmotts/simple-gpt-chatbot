@@ -1,5 +1,5 @@
 <h1 align="center">
-OpenAI GPT Chatbot <br> <span>( Template )</span>
+Simple GPT Chatbot <br> <span>( Template )</span>
 </h1>
 
 <p align="center">
