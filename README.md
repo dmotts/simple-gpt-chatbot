@@ -2,12 +2,17 @@
 OpenAI GPT Chatbot <br> <span>( Template )</span>
 </h1>
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/dmotts/simple-gpt-chatbot/issues/new/choose">Request Feature</a>
+     ·
+    <a href="https://bit.ly/openai-gpt-chatbot" target="blank">View Demo</a>
+    ·
+    <a href="https://github.com/dmotts/simple-gpt-chatbot/issues/new/choose">Report Bug</a>
+ 
+</p>
 
-<a href="https://bit.ly/openai-gpt-chatbot" target="_blank"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="View Demo"></a>
-</div>
 
-![OpenAI GPT Chatbot  Screenshot](https://res.cloudinary.com/dzpafdvkm/image/upload/v1727815684/Portfolio/chatgpt-chatbot.png)
+![Simple GPT Chatbot  Screenshot](https://res.cloudinary.com/dzpafdvkm/image/upload/v1727815684/Portfolio/chatgpt-chatbot.png)
 
 <hr>
 
@@ -24,12 +29,12 @@ To set up and run the application, follow these steps:
 
 1. **Clone the repository:**
    ``` 
-   git clone https://github.com/dmotts/openai-gpt-chatbot.git
+   git clone https://github.com/dmotts/simple-gpt-chatbot.git
    ``` 
 
 2. **Navigate to the project directory:**
    ```
-   cd openai-gpt-chatbot
+   cd simple-gpt-chatbot
    ``` 
 
 3. **Create a virtual environment (optional but recommended):**
