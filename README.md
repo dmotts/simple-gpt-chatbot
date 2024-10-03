@@ -68,8 +68,14 @@ Contributions are welcome! To contribute:
 4. Push to the branch: `git push origin my-feature-branch`.
 5. Open a pull request.
 
+
+***Please ensure your code follows the project's coding standards and includes tests where appropriate.***
+
+## Contributors 
+
+[Daley Mottley (dmotts)](https://github.com/dmotts)
+
 ## Let's Connect 🤝
 
-If you find this project useful, please consider connecting with me on GitHub:
-
-- [Daley Mottley (dmotts)](https://github.com/dmotts)
+<p> If you found this project useful.</p>
+Feel free to reach out the developer(s)!
